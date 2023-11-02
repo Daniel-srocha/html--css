@@ -1,2 +1,5 @@
 # html-css
- curso de html5 e css
+ curso de HTML5 e CSS
+
+ Aprendendo HTML5 e CSS e gerenciando repositórios.
+ 
