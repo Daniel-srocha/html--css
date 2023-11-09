@@ -4,6 +4,7 @@ body {
 table {
     width: 500px;
     border-collapse: collapse;
+    position: relative;
 }
 caption {
     font-size: 1.5em;
@@ -21,6 +22,11 @@ td, th {
 thead, tfoot {
     background-color: gray;
     color: white;
+}
+thead > tr > th {
+    position: sticky;
+    top: -1px;
+    background-color: gray;
 }
 td.num {
     text-align: right;
